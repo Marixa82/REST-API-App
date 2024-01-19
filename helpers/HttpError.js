@@ -1,5 +1,5 @@
 const messageList = {
-    400: "Bad Request",
+    400: "Missing required name field",
     401: "Unauthorized",
     403: "Firbidden",
     404: "Not Found",
